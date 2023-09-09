@@ -7,7 +7,7 @@
 
 #Quiz
 1. Tag HTML manakah yang digunakan untuk membuat hyperlink?
-2. Berikut ini adalah element yang berada di <head>, kecuali
+2. Berikut ini adalah element yang berada di \<head\>, kecuali
 3. Elemen HTML manakah yang digunakan untuk menentukan struktur dokumen HTML, seperti heading, paragraf, dan list?
 4. Susunan struktur dasar html yang benar
 5. Apa kepanjangan dari HTML?
